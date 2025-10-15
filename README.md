@@ -32,4 +32,14 @@ Este repositório reúne materiais úteis para proprietários e entusiastas do T
 - 🧰 Guias de modificações e upgrades
 - 🧾 Diagramas elétricos e arquivos de diagnóstico
 
+
+
 ---
+
+> ⚠️ **ATTENTION / ATTENZIONE / ATENÇÃO**  
+> 🇬🇧 *From now on, all files will be in **English** to avoid confusion and facilitate reading.*  
+> 🇮🇹 *D’ora in poi, tutti i file saranno in **inglese** per evitare confusione e facilitare la lettura.*  
+> 🇧🇷 *De agora em diante, todos os arquivos estarão em **inglês** para evitar confusão e facilitar a leitura.*
+
+---
+
