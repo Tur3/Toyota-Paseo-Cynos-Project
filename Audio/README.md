@@ -12,7 +12,7 @@ in a clean and reversible way.
 ## 📂 Contents
 
 ### **1. 3D-Printed Adapter for Universal Speakers**
-Thingiverse project link: **[View on Thingiverse](https://www.thingiverse.com)**
+Thingiverse project link: **[View on Thingiverse](https://www.thingiverse.com/thing:7242780)**
 
 A 3D-printable support that allows the installation of aftermarket speakers with
 standard mounting holes, replacing the factory Toyota speakers with the
