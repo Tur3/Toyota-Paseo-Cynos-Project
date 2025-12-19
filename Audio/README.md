@@ -45,4 +45,5 @@ available on my GitHub profile.
 
 ## 📜 License
 
-License information for this section will be updated soon.
+Creative Commons Attribution-ShareAlike 4.0 International (CC BY-SA 4.0)
+
